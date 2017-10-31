@@ -163,3 +163,10 @@ int main ()
     2
     1
     Out of loop
+
+### For More Resources
+http://www.cplusplus.com/reference/stack/stack/
+
+### Citations:
+
+Image : https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
